@@ -1,0 +1,1 @@
+Source pics for RSS Frontend 2022Q3 course's task ['Online Store'](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/online-store-team)
